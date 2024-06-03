@@ -1,4 +1,5 @@
-# Repo
-## Repo
+# Data Science
 
-It's a markdown file in this repository
+## Python Project for Data Science
+
+There is a final assignment in this repository
